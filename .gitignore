@@ -16,3 +16,4 @@ build/
 # Ignore specific file
 secret_file.txt
 
+.*
